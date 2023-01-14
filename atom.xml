@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://knightromantic.github.io</id>
+    <title>时间与空间的尽头</title>
+    <updated>2023-01-14T12:34:21.997Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://knightromantic.github.io"/>
+    <link rel="self" href="https://knightromantic.github.io/atom.xml"/>
+    <logo>https://knightromantic.github.io/images/avatar.png</logo>
+    <icon>https://knightromantic.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, 时间与空间的尽头</rights>
+</feed>
